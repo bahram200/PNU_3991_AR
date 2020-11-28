@@ -7,6 +7,7 @@
 - [Certificate](https://github.com/bahram200/Proof-javascript-certificate/blob/main/certificate.jpeg)
 - [Presentation link for Software development methodologies](https://drive.google.com/file/d/1daqyU-ODmUaHQWtp5ydZk6c3KWZ2Ei7_/view?usp=sharing)
 - [Presentation link for Software development methodologies](https://drive.google.com/file/d/1qnl7DZNxUxAnIUlth7RpxFFnCYVyfGUO/view?usp=sharing)
+- [Presentation link for Architecture Software](https://drive.google.com/file/d/1OC5M8ilZAxoXozHEPsvrHKPno3tf2Cea/view?usp=sharing)
 -----------------
 
 1. G-A01

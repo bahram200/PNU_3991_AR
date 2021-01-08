@@ -1,4 +1,9 @@
-# PNU_3991_AR
+# [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
+<div dir="rtl">
+   
+---------- 
+   
 # بهرام بهنژاد
 - [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
 - [Resume](https://bahram200.github.io/Behnejad/) 
@@ -7,6 +12,32 @@
 - [Certificate](https://github.com/bahram200/Proof-javascript-certificate/blob/main/certificate.jpeg)
 
 -----------------
+> ارزیابی ها
+
+بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
+- [خلاصه ارزیابی درس_معماری نرم افزار]()
+
+
+------------------
+## فهرست درس ها  
+
+[1115026_01	مهندسي نرم افزارپيشرفته	3]()
+<br>
+[1115282_01	متدولوژي ايجاد نرم افزار	3]()
+<br>
+[1115280_01	معماري نرم افزار	3]()
+
+
+
+--------------
+## گروه های درسی
+
 
 1. G-A01
    1. [ASE-05زهرا باقری نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/05_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A8%D8%A7%D9%82%D8%B1%D9%8A%20%D9%86%D8%B3%D8%A8)
@@ -31,6 +62,10 @@
     1. [SDM-21زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/21_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
     1. [SDM-24پوریا صفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
     1. [SDM-28مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/28_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)  
+ -----------
+ <div align="center">
+   
+   <div dir="ltr">
    
 <table style="width:100%" >
             <tr>
@@ -111,3 +146,4 @@
               <th>پنج شنبه</th>
             </tr>
           </table> 
+          </div>

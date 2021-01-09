@@ -15,8 +15,8 @@
 > ارزیابی ها
 
 بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/bahram200/PNU_3991_AR/blob/main2/General/BB_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/bahram200/PNU_3991_AR/blob/main2/General/BB_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()

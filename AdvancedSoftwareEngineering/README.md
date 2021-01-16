@@ -17,7 +17,7 @@
 
 همخوانی
 
-- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+
 - [CollaborativeReading](https://accounts.crowdin.com/login)
 
 --------------------------
